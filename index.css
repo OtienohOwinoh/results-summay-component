@@ -10,6 +10,10 @@ body {
 
     
     background-color: #fcfdff;
+    min-height: 100vh;
+    display: flex; 
+    text-align: center; 
+    align-items:center;
    
 
 
